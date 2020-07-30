@@ -1,2 +1,12 @@
 CCCCCCCCCCCCCCCCCCCCCCCCccc
 BBBBBBBBBBBBBBBBBBBBbb
+
+
+
+
+
+
+
+
+
+Essa linha foi adicionada no branch test02
